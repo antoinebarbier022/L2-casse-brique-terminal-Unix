@@ -1,0 +1,12 @@
+
+Aide du jeu Casse Brique
+
+Utiliser les touches clavier pour naviguer dans le jeu.
+
+Voici la liste des raccourcis clavier : 
+
+touche 'm' : retour au menu
+touche 'entrer' : entrer/sortir dans la fenêtre
+touche 'j' : lancer le jeu
+touche 'r' : recommencer le jeu
+touche 'q' : quitter le jeu
